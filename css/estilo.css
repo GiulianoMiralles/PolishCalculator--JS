@@ -1,0 +1,45 @@
+#body {
+    background-color: aliceblue;
+}  
+
+#contenedora{
+    background-color: #40a6eb;
+    width: 50%;
+    height: 100%;
+    margin-top: 5%;
+    margin-left: 25%;
+    border-radius: 7px;
+    padding: 3%;
+}
+
+#btn-calcular{
+    background-color: aliceblue;
+}
+
+#btn-calcular:hover{
+    background: #40a6eb;
+    color: aliceblue;
+    border-color: aliceblue;
+}
+  
+
+h1 {
+  text-align: center;
+  color: aliceblue;
+}
+
+
+input{
+  width: 50%;
+  margin: 0;
+}
+
+footer{
+    width: 70%;
+    margin-left: 17%;
+    
+}
+
+hr{
+    background-color: beige;
+}
